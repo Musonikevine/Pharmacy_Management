@@ -1,1 +1,1 @@
-this system servers as a solution for a phato check the invetories
+This system serves as a centralized platform for managing inventory, sales, and other administrative tasks, facilitating less communication between the head of the pharmacy and the sellers.
